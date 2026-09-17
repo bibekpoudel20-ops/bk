@@ -30,7 +30,6 @@
 - 👯 I’m looking to collaborate on **open source developer tools**
 - 🤝 I’m looking for help with **distributed systems design**
 - 💬 Ask me about **React, Node.js, TypeScript, or anything tech**
-- 📫 How to reach me: **alex.chen@example.com**
 - ⚡ Fun fact: **I've visited 30 countries and counting**
 
 <!-- Tech Stack -->
